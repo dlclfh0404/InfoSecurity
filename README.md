@@ -20,3 +20,9 @@
 
 #### command to use : ls , cd inhere/ , ls -al , cat .hidden
 #### ANSWER : 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+
+### LEVEL 4 -> LEVEL 5
+
+#### command to use : ls , cd inhere/ , file ./-* , cat ./-file07
+#### ANSWER : lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
+
